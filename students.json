@@ -1,0 +1,47 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Kavitha",
+      "location": "Chennai",
+      "phone": "928896897",
+      "courses": [
+        "Java",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Akshinth",
+      "location": "France",
+      "phone": "89568934569",
+      "courses": [
+        "DataScience",
+        "NodeJs",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vedhagiri",
+      "location": "India",
+      "phone": "2658936596",
+      "courses": [
+        "Astrology",
+        "Astro Talk",
+        "Future Predictions"
+      ]
+    },
+    {
+      "name": "Madhi",
+      "location": "India",
+      "phone": "7299002589",
+      "courses": [
+        "Java",
+        "Ruby"
+      ],
+      "id": 4
+    }
+  ]
+}
